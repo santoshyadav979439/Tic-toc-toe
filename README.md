@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## Application Link
+https://tic-toc-toe-6b5a0.firebaseapp.com/
+you can play around by using above link. This is deployed on firebase.
 ## Available Scripts
 
 In the project directory, you can run:
